@@ -1,0 +1,46 @@
+name: Actualizar guia EPG
+
+on:
+  schedule:
+    - cron: "0 10 * * *"   # todos los dias a las 3:00 AM hora de Arizona (10:00 UTC)
+  workflow_dispatch:        # permite correrlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+
+jobs:
+  epg:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Descargar mi repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Descargar la herramienta iptv-org/epg
+        run: |
+          git clone --depth 1 -b master https://github.com/iptv-org/epg.git epg-tool
+          cd epg-tool && npm install --no-audit --no-fund
+
+      - name: Descargar la programacion (3 dias)
+        run: |
+          cd epg-tool
+          npm run grab --- --channels=../mis.channels.xml --output=../guide.xml --days=3 --maxConnections=5
+
+      - name: Revisar que la guia no venga vacia
+        run: |
+          n=$(grep -c "<programme" guide.xml || true)
+          echo "Programas descargados: $n"
+          if [ "$n" -lt 500 ]; then echo "Guia demasiado pequena, no se actualiza"; git checkout -- guide.xml; fi
+
+      - name: Guardar la guia en el repositorio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add guide.xml
+          git diff --cached --quiet || git commit -m "Actualizar guia EPG $(date -u +%Y-%m-%d)"
+          git push
