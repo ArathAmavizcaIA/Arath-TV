@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
   <channel site="gatotv.com" lang="es" xmltv_id="DiscoveryTurbo.mx" site_id="discovery_turbo_latinoamerica">Discovery Turbo</channel>
-  <channel site="mi.tv" lang="es" xmltv_id="DisneyXD.mx" site_id="mx#disney-xd">Disney XD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="DisneyXD.mx" site_id="disney-xd-usa--eastern-feed/1053">Disney XD</channel>
   <channel site="gatotv.com" lang="es" xmltv_id="ESPNLatinAmerica.us@Mexico" site_id="espn_mexico">ESPN</channel>
   <channel site="gatotv.com" lang="es" xmltv_id="ESPN2LatinAmerica.us@Mexico" site_id="espn_2_mexico">ESPN 2</channel>
   <channel site="gatotv.com" lang="es" xmltv_id="ESPN3.mx" site_id="espn_3_mexico">ESPN 3</channel>
