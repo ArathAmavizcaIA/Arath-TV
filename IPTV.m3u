@@ -47,12 +47,18 @@ http://181.78.197.59:8000/play/a07z/index.m3u8
 http://tecnotv.club/q7sz/phpcode/lista4.php?c=a05t&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@Mexico",ESPN 2 HD
 http://tecnotv.club/q7sz/phpcode/ssiptv.php?c=a053&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@Mexico",ESPN 2 Mexico
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
 #EXTINF:-1 tvg-id="ESPN3.mx",ESPN 3
 http://tecnotv.club/q7sz/phpcode/ssiptv.php?c=a02d&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN3.mx",ESPN 3 HD
 http://tecnotv.club/q7sz/phpcode/ssiptv.php?c=a054&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-id="ESPN3.mx",ESPN 3 Mexico HD
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
 #EXTINF:-1 tvg-id="ESPN4.mx",ESPN 4
 http://tecnotv.club/q7sz/phpcode/ssiptv.php?c=a057&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-id="ESPN4.mx",ESPN 4 Mexico
+http://181.78.197.59:8000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4.mx",ESPN 4 HD
 http://tecnotv.club/q7sz/phpcode/lista4.php?c=a07f&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN4.mx",ESPN 4 Mexico
