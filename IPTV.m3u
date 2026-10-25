@@ -11,9 +11,9 @@ http://tecnotv.club/py39/phpcode/ssiptv.php?c=a01i&token=tecnotokenplustv230516F
 http://tecnotv.club/py39/phpcode/ssiptv.php?c=a0qx&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="AXN.mx",AXN
 http://tecnotv.club/py39/phpcode/ssiptv.php?c=a01g&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx@SD",AZTECA 7
+#EXTINF:-1 tvg-id="Azteca7.mx@SD",AZTECA 7 Opc A
 http://200.35.176.154:8000/play/a064/index.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx@SD",AZTECA 7
+#EXTINF:-1 tvg-id="Azteca7.mx@SD",AZTECA 7 opc B
 http://187.245.231.226:8000/play/a0uz/index.m3u8
 #EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us",Adult Swim
 http://tecnotv.club/py39/phpcode/ssiptv.php?c=a04n&token=tecnotokenplustv230516F&f=.m3u8
@@ -21,15 +21,15 @@ http://tecnotv.club/py39/phpcode/ssiptv.php?c=a04n&token=tecnotokenplustv230516F
 http://tecnotv.club/py39/phpcode/ssiptv.php?c=a037&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx@SD",CANAL 5 MEXICO
 http://tecnotv.club/py39/phpcode/ssiptv.php?c=a067&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx@SD",CANAL 5 MEXICO
+#EXTINF:-1 tvg-id="Canal5.mx@SD",CANAL 5 MEXICO opc 1
 http://206.135.11.174:8010/play/a0fl/index.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx@SD",CANAL 5 MEXICO
+#EXTINF:-1 tvg-id="Canal5.mx@SD",CANAL 5 MEXICO opc 2
 http://45.5.119.43:4000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx@SD",CANAL 5 MEXICO
+#EXTINF:-1 tvg-id="Canal5.mx@SD",CANAL 5 MEXICO opc 3
 http://45.181.87.106/CANAL5HD/index.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx@SD",CANAL 5 MEXICO
+#EXTINF:-1 tvg-id="Canal5.mx@SD",CANAL 5 MEXICO opc 3
 http://45.189.151.7:8000/play/a05s
-#EXTINF:-1 tvg-id="Canal5.mx@SD",CANAL 5 MEXICO
+#EXTINF:-1 tvg-id="Canal5.mx@SD",CANAL 5 MEXICO opc 4
 http://132.255.210.69:8000/play/a06e
 #EXTINF:-1 tvg-id="Canal5.mx@SD",CANAL 5 MEXICO
 http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
@@ -103,9 +103,9 @@ https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m
 https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes.us@SD",FS1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-#EXTINF:-1 tvg-id="FoxDeportes.us@SD",FS1
+#EXTINF:-1 tvg-id="FoxDeportes.us@SD",FS1 opc A
 https://tvsen7.aynascope.net/foxsports1/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports.mx",FS2
+#EXTINF:-1 tvg-id="FoxSports.mx",FS2 Opc A
 https://tvsen7.aynascope.net/foxsports2/index.m3u8
 #EXTINF:-1 tvg-id="FX.mx",FX HD
 http://tecnotv.club/py39/phpcode/ssiptv.php?c=a0qz&token=tecnotokenplustv230516F&f=.m3u8
@@ -121,7 +121,7 @@ http://tecnotv.club/py39/phpcode/ssiptv.php?c=a029&token=tecnotokenplustv230516F
 http://tecnotv.club/py39/phpcode/ssiptv.php?c=a00o&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="HBO.mx",HBO HD
 http://tecnotv.club/py39/phpcode/ssiptv.php?c=a00l&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="HBO.mx",HBO HD
+#EXTINF:-1 tvg-id="HBO.mx",HBO HD opc A
 https://streaming.onnethn.com/HBO/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOPlus.mx",HBO Plus HD
 http://tecnotv.club/py39/phpcode/ssiptv.php?c=a00n&token=tecnotokenplustv230516F&f=.m3u8
