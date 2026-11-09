@@ -1,16 +1,13 @@
 #EXTM3U url-tvg="http://10.0.0.248:3000/guide.xml"
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://imgur.com/LPcaNgw.png",ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="AandE.mx",A&E
-http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a034&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 tvg-id="AandE.mx",A&E HD
 http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a0qw&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us@SD",AMC
-http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a01i&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@SD",AMC HD
 http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a0qx&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="AXN.mx",AXN
-http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a01g&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 tvg-id="Azteca7.mx@SD",AZTECA 7 Opc A
 http://200.35.176.154:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx@SD",AZTECA 7 opc B
@@ -39,8 +36,7 @@ http://132.255.210.69:8000/play/a06e
 http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx@SD",CANAL 5 MEXICO
 http://45.5.118.152:8000/play/a03i/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx@SD",CANAL DE LAS ESTRELLAS
-http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a03j&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@Mexico",Cartoon Network
 http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a00z&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx",CineCanal
@@ -49,14 +45,7 @@ http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a046&token=tecnotokenplustv230516F
 http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a044&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="ClaroSports2.mx",Claro Sports 2 HD
 http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a00i&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us@Mexico",Discovery Channel
-http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a036&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscovery.mx",Discovery ID HD
-http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a0rx&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKids.mx",Discovery Kids
-http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a03p&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTurbo.mx",Discovery Turbo
-http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a03t&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 tvg-id="EEntertainment.mx",E! Entertairment HD
 http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a0qu&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Mexico",ESPN
@@ -122,7 +111,7 @@ http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a02j&token=tecnotokenplustv230516F
 #EXTINF:-1 tvg-id="History2LatinAmerica.us@Mexico",H2
 http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a029&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.mx",HBO Family HD
-http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a00o&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/puxh/phpcode/lista1.php?c=a05p&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="HBO.mx",HBO HD
 http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a00l&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="HBO.mx",HBO HD opc A
@@ -130,55 +119,49 @@ https://streaming.onnethn.com/HBO/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOPlus.mx",HBO Plus HD
 http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a00n&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us@SD",HBO XTREME
-http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a00p&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/puxh/phpcode/lista1.php?c=a089&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="HBO2.mx",HBO2 HD
 http://45.171.64.30:6060/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="History.mx",History HD
-http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a01o&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/puxh/phpcode/lista1.php?c=a0a7&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="HomeAndHealth.mx",Home & Health HD
 http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a0rb&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx@SD",Nat Geo HD
 http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a0rq&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 tvg-id="Space.ar@Mexico",SPACE HD
-http://tecnotv.club/puxh/phpcode/lista3.php?c=a0im&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/puxh/phpcode/lista1.php?c=a078&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 tvg-id="StarChannel.mx@SD",STAR CHANNEL
 http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a03s&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="StarChannel.mx@SD",STAR CHANNEL HD
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.mx",Sony Movies HD
-http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a005&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/puxh/phpcode/lista1.php?c=a0ag&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="TNTLatinAmerica.us@Mexico",TNT HD
-http://tecnotv.club/puxh/phpcode/lista3.php?c=a0ij&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/puxh/phpcode/lista1.php?c=a076&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="TNTSeries.mx",TNT Series HD
-http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a0rs&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="Telemundo.mx",Telemundo HD
-http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a0qy&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/puxh/phpcode/lista1.php?c=a07g&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 tvg-id="UniversalComedy.us@SD",UNIVERSAL COMEDY HD
 http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a0rk&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="UniversalCrime.us@East",UNIVERSAL CRIME HD
 http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a0rj&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="UniversalPremiere.us@East",UNIVERSAL PREMIERE HD
 http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a0rg&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Mexico",Universal
-http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a040&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/puxh/phpcode/lista1.php?c=a06y&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.us@Mexico",Warner
-http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a032&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/puxh/phpcode/lista1.php?c=a08c&token=tecnotokenplustv230516F&f=.m3u8
+
+
 #EXTINF:-1 tvg-id="Telemax.mx@XEWHTDT" tvg-logo="https://i.imgur.com/klhTyDU.png",Telemax (XEWH-TDT) (1080p)
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" ,Disney Channel Mexico (720p)
 http://45.166.93.156:9999/play/a0f3/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",Disney Channel HD
 http://15.204.246.24:8080/DisneyHD/index.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx@SD",AZTECA 7 HD
-http://tecnotv.club/puxh/phpcode/lista1.php?c=a0la&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx@SD",CANAL 5 HD
-http://tecnotv.club/puxh/phpcode/lista1.php?c=a0n6&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" group-title="TV PREMIUM",ESTRELLAS HD
-http://tecnotv.club/puxh/phpcode/lista1.php?c=a0le&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="FoxSports2.mx" group-title="TV PREMIUM",FOX SPORTS 2
-http://tecnotv.club/puxh/phpcode/lista1.php?c=a0oz&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-id="FoxSports3.mx" group-title="TV PREMIUM",FOX sport 3
-http://tecnotv.club/puxh/phpcode/lista1.php?c=a0ox&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.mx",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="NickenEspanol.us@SD",Nickelodeon Mexico
@@ -187,9 +170,5 @@ https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
 #EXTINF:-1 tvg-id="NickelodeonToons.latam",Nickelodeon Toons (720p)
 https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx@SD",Canal 5 (1080p)
-http://45.181.87.106/CANAL5HD/index.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx@SD",Canal 5 (1080p)
-http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="BobEsponja.latam",Bob Esponja
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
